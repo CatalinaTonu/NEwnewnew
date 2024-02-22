@@ -54,7 +54,7 @@ public class ManageTasksViewModel implements PropertyChangeListener {
         Platform.runLater(() -> { if (evt.getPropertyName().equals("List")) tasks.setAll((ArrayList<Task>)evt.getNewValue());
         ArrayList<Task> temp = new ArrayList<>();
         for(int i =0; i <tasks.size(); i++){
-            if(tasks.get(i).getCreator().getName().equals(User.name)){
+            if(tasks.get(i).getPerson().getName().equals(User.name)){
                 temp.add(tasks.get(i));
             }
         }

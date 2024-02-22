@@ -29,7 +29,7 @@ public class Task {
         return description;
     }
 
-    public Person getCreator() {
+    public Person getPerson() {
         return person;
     }
 
@@ -42,7 +42,7 @@ public class Task {
     public boolean equals(Object obj){
         if(obj == null || obj.getClass()!= getClass()) return false;
         Task p = (Task) obj;
-        return p.getTitle().equals(this.getTitle()) && p.getDescription().equals(this.getDescription()) && p.getState().equals(this.getState()) && p.getCreator().equals(this.getCreator());
+        return p.getTitle().equals(this.getTitle()) && p.getDescription().equals(this.getDescription()) && p.getState().equals(this.getState()) && p.getPerson().equals(this.getPerson());
     }
 
     public String toString(){
