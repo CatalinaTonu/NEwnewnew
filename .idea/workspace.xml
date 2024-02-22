@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5605e65a-5f25-44df-8de9-24d083e67306" name="Changes" comment="commit2 - thready zjebane nie dzialaja tak jak powinny">
+    <list default="true" id="5605e65a-5f25-44df-8de9-24d083e67306" name="Changes" comment="commit4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshops2session2/StartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workshops2session2/StartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshops2session2/Threads/Anna.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workshops2session2/Threads/Bob.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +104,7 @@
       <workItem from="1708526075892" duration="3553000" />
       <workItem from="1708529648188" duration="24286000" />
       <workItem from="1708591827904" duration="2310000" />
-      <workItem from="1708603923022" duration="748000" />
+      <workItem from="1708603923022" duration="2052000" />
     </task>
     <task id="LOCAL-00001" summary="commit2 - thready zjebane nie dzialaja tak jak powinny">
       <option name="closed" value="true" />
@@ -111,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708603984675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1708605174060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708605174060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit4">
+      <option name="closed" value="true" />
+      <created>1708605531762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708605531762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +140,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit1" />
     <MESSAGE value="commit2 - thready zjebane nie dzialaja tak jak powinny" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2 - thready zjebane nie dzialaja tak jak powinny" />
+    <MESSAGE value="commit3" />
+    <MESSAGE value="commit4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
