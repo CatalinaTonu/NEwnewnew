@@ -14,7 +14,6 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.Region;
 
 public class ManageTasksViewController {
-    @FXML private Button addTastButton;
     @FXML private TableView<Task> ownTaskTableView;
     @FXML private TableColumn<Task, String> ownTaskTitle;
     @FXML private TableColumn<Task, String> ownTaskDescription;
